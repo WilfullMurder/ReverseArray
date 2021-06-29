@@ -1,2 +1,2 @@
 # ReverseArray
-A small program that prints an array in reverse order. (C++)
+A small program that prints an array (user input) in reverse order. (C++)
