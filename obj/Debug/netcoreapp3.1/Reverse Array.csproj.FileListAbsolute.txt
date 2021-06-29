@@ -1,0 +1,11 @@
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.exe
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.deps.json
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.runtimeconfig.json
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.runtimeconfig.dev.json
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.dll
+C:\Users\Jake\source\repos\Reverse Array\bin\Debug\netcoreapp3.1\Reverse Array.pdb
+C:\Users\Jake\source\repos\Reverse Array\obj\Debug\netcoreapp3.1\Reverse Array.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\Reverse Array\obj\Debug\netcoreapp3.1\Reverse Array.AssemblyInfo.cs
+C:\Users\Jake\source\repos\Reverse Array\obj\Debug\netcoreapp3.1\Reverse Array.dll
+C:\Users\Jake\source\repos\Reverse Array\obj\Debug\netcoreapp3.1\Reverse Array.pdb
+C:\Users\Jake\source\repos\Reverse Array\obj\Debug\netcoreapp3.1\Reverse Array.csprojAssemblyReference.cache
